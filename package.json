@@ -1,0 +1,30 @@
+{
+  "name": "contract-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsytssk/contract-wallet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zsytssk/contract-wallet/issues"
+  },
+  "homepage": "https://github.com/zsytssk/contract-wallet#readme",
+  "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "@walletconnect/web3-provider": "^1.7.1",
+    "big.js": "^6.1.1",
+    "ethjs-unit": "^0.1.6",
+    "walletlink": "^2.5.0",
+    "web3": "^1.7.0",
+    "web3-eth-contract": "^1.7.0",
+    "web3-utils": "^1.7.0"
+  }
+}
